@@ -1,0 +1,4 @@
+board_manager:
+    additional_urls: []
+build_cache:
+    path: /tmp/ArduinoOfen
